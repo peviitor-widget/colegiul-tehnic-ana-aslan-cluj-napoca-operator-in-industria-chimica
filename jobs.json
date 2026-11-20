@@ -1,39 +1,38 @@
 [
   {
-    "url": "https://jobs.smartrecruiters.com/SGS/744000126084800",
-    "title": "Laborant Chimist",
-    "company": "SGS - TIM SRL",
+    "url": "https://kronospan-candidate.talent-soft.com/job/job-inginer-chimist-instalatia-de-formaldehida-formalin-production_12918.aspx",
+    "title": "Inginer chimist – instalația de formaldehidă / Formalin Production",
+    "company": "KRONOSPAN SEBES SA",
     "location": [
-      "Constanta",
-      "Romania"
+      "România"
     ],
     "salary": null,
-    "date": "2026-11-17T14:26:34Z",
-    "status": "tested",
+    "date": "2026-11-19T15:37:54.805Z",
+    "status": "scraped",
     "tags": [
-      "control calitate",
+      "substanțe chimice",
       "parametri proces"
     ],
-    "matchPercentage": 88,
-    "reason": "Pregătirea probelor, analizele fizice și chimice și înregistrarea parametrilor corespund direct controlului calității și monitorizării procesului."
+    "matchPercentage": 92,
+    "reason": "Poziție de inginer chimist în producția de formaldehidă, fără cerințe de senioritate, cu sarcini direct în manipularea substanțelor chimice și monitorizarea parametrilor de proces."
   },
   {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3434694",
-    "title": "OPERATOR FABRICATIE FLUX",
-    "company": "STADA M&amp;D SRL",
+    "url": "https://www.antibiotice.ro/joburi/operator-exploatare-si-mentenanta-2/",
+    "title": "Operator exploatare și mentenanță",
+    "company": "ANTIBIOTICE SA",
     "location": [
-      "TURDA",
+      "Iași",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-16T12:59:33Z",
-    "status": "verified",
+    "date": "2026-11-19T15:28:46.606Z",
+    "status": "scraped",
     "tags": [
-      "Controlul calității",
-      "Respectarea normelor"
+      "operare echipamente",
+      "rezolvare probleme"
     ],
-    "matchPercentage": 88,
-    "reason": "Operator în producție farmaceutică, cu sarcini de respectare BPF și control al calității, potrivit nivelului entry."
+    "matchPercentage": 90,
+    "reason": "Operator exploatare și mentenanță într-o fabrică farmaceutică, cu operarea echipamentelor tehnologice și rezolvarea problemelor apărute în exploatare."
   },
   {
     "url": "https://oferimdemunca.ro/job/laborant-chimist-4/",
@@ -50,8 +49,8 @@
       "substanțe chimice",
       "control calitate"
     ],
-    "matchPercentage": 85,
-    "reason": "Laborant chimist într-o fabrică de vopsele folosește direct manipularea substanțelor chimice, echipamentele de laborator și controlul calității în producție, la nivel entry-level."
+    "matchPercentage": 90,
+    "reason": "Laborant chimist într-o fabrică de vopsele, potrivire directă cu manipularea substanțelor chimice și controlul calității."
   },
   {
     "url": "https://oferimdemunca.ro/job/laborant-chimist-2/",
@@ -68,44 +67,43 @@
       "substanțe chimice",
       "control calitate"
     ],
-    "matchPercentage": 85,
-    "reason": "Laborant chimist într-o fabrică de vopsele folosește direct manipularea substanțelor chimice, echipamentele de laborator și controlul calității în producție, la nivel entry-level."
+    "matchPercentage": 90,
+    "reason": "Același post de laborant chimist la fabrica de vopsele, cu domeniu chimic direct și nivel de început."
   },
   {
-    "url": "https://multijobs.ro/job/operator-mase-plastice-tehnician-proces/394",
-    "title": "Operator mase plastice/tehnician proces",
-    "company": "GLOBAL ENTERPRISES INTERNATIONAL SRL",
+    "url": "https://www.antibiotice.ro/joburi/operator-productie/",
+    "title": "Operator Productie",
+    "company": "ANTIBIOTICE SA",
     "location": [
-      "Paulesti",
+      "Iași",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-17T09:18:15Z",
-    "status": "tested",
+    "date": "2026-11-19T15:28:46.606Z",
+    "status": "scraped",
     "tags": [
-      "Operare echipamente",
-      "Monitorizare parametri"
+      "substanțe chimice",
+      "control calitate"
     ],
-    "matchPercentage": 85,
-    "reason": "Operator mase plastice/tehnician proces: producție de polimeri cu operarea echipamentelor tehnologice și monitorizarea parametrilor."
+    "matchPercentage": 88,
+    "reason": "Operator de producție la un producător de antibiotice, unde sunt folosite direct manipularea substanțelor chimice, igiena și controlul calității."
   },
   {
-    "url": "https://www.bestjobs.eu/loc-de-munca/inspector-ssm-pitesti-2",
-    "title": "Inspector SSM - Pitesti",
-    "company": "IMSAT BIHOR SRL",
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3441049",
+    "title": "LABORANT DETERMINARI FIZICO-MECANICE",
+    "company": "MICHELIN ROMANIA S.A.",
     "location": [
-      "Pitești",
-      "Romania"
+      "România"
     ],
     "salary": null,
-    "date": "2026-11-17T14:57:34Z",
-    "status": "tested",
+    "date": "2026-11-19T14:54:28.246Z",
+    "status": "scraped",
     "tags": [
-      "securitate muncă",
-      "situații urgență"
+      "echipamente laborator",
+      "control calitate"
     ],
-    "matchPercentage": 85,
-    "reason": "Inspector SSM/SU pe șantier cu studii medii și cursuri de specialitate, potrivit pentru un începător în domeniu."
+    "matchPercentage": 88,
+    "reason": "Laborant în producția de anvelope, cu sub 3 ani experiență, unde folosește direct echipamentele de laborator și controlul calității."
   },
   {
     "url": "https://www.jobradar24.ro/anunt/specialist-ssm-su-si-mediu-8mdwqn",
@@ -119,63 +117,101 @@
     "date": "2026-11-17T09:53:17Z",
     "status": "tested",
     "tags": [
-      "securitate muncă",
-      "protecție mediu"
+      "Securitate muncă",
+      "Urgențe"
+    ],
+    "matchPercentage": 88,
+    "reason": "Specialist SSM, SU și mediu în industrie, acoperind direct securitatea muncii, gestionarea urgențelor și protecția mediului la nivel mid."
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/SGS/744000126084800",
+    "title": "Laborant Chimist",
+    "company": "SGS - TIM SRL",
+    "location": [
+      "Constanta",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T14:26:34Z",
+    "status": "tested",
+    "tags": [
+      "substanțe chimice",
+      "echipamente laborator"
     ],
     "matchPercentage": 85,
-    "reason": "Rol de specialist SSM, situații de urgență și mediu, aliniat direct la competențe și la nivelul junior/mid."
+    "reason": "Analizele chimice și fizice ale probelor folosesc direct echipamentele de laborator și controlul calității în producție."
   },
   {
-    "url": "https://www.ejobs.ro/user/locuri-de-munca/inginer-proces-apa-potabila-uzina-de-apa-tarnaveni/99249874",
-    "title": "Inginer proces apa potabila (Uzina de apa Tarnaveni)",
-    "company": "COMPANIA AQUASERV SA",
+    "url": "https://oferimdemunca.ro/job/inginer-industria-alimentara/",
+    "title": "Inginer industria alimentara",
+    "company": "FOR ELDA SRL",
     "location": [
-      "Tarnaveni",
+      "Drobeta-Turnu Severin",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-17T11:07:32Z",
+    "date": "2026-11-17T14:34:21Z",
     "status": "tested",
     "tags": [
-      "Monitorizare parametri",
-      "Control calitate"
+      "control calitate",
+      "parametri proces"
     ],
     "matchPercentage": 82,
-    "reason": "Inginer de proces la o uzină de apă potabilă: domeniu chimic, cu monitorizarea parametrilor de proces și controlul calității."
+    "reason": "Inginer în industria alimentară cu activități de producție, control al calității și optimizare a proceselor, domeniu de proces direct relevant."
   },
   {
-    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/272923/Electromontaj/Inspector-SSM",
-    "title": "Inspector SSM",
-    "company": "GREEN ELECTROMONTAJ SRL",
+    "url": "https://www.teamland.ro/apply.php?id=1246",
+    "title": "Laborant determinari fizico-mecanice",
+    "company": "TEAMLAND SRL",
     "location": [
-      "Bucuresti",
+      "Ploiesti",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-17T13:25:56Z",
+    "date": "2026-11-17T10:28:12Z",
     "status": "tested",
     "tags": [
-      "securitate muncă"
+      "echipamente laborator",
+      "control calitate"
     ],
-    "matchPercentage": 80,
-    "reason": "Poziție de inspector SSM în domeniul SSM, la nivel entry/junior."
+    "matchPercentage": 82,
+    "reason": "Laborant determinări fizico-mecanice în Ploiești, rol entry-level care utilizează echipamente de laborator și controlul calității."
   },
   {
-    "url": "https://multijobs.ro/job/specialist-ssm/5437",
-    "title": "Specialist SSM",
-    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "url": "https://multijobs.ro/job/operator-mase-plastice-tehnician-proces/394",
+    "title": "Operator mase plastice/tehnician proces",
+    "company": "GLOBAL ENTERPRISES INTERNATIONAL SRL",
     "location": [
-      "Bucuresti",
+      "Paulesti",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-17T11:44:16Z",
+    "date": "2026-11-17T09:18:15Z",
     "status": "tested",
     "tags": [
-      "securitate muncă"
+      "Operarea echipamentelor",
+      "Securitate în muncă"
     ],
-    "matchPercentage": 75,
-    "reason": "Specialist SSM în domeniul țintă, fără cerințe de senioritate."
+    "matchPercentage": 82,
+    "reason": "Rol de operator mase plastice/tehnician proces în producție industrială, potrivit pentru operarea echipamentelor și respectarea normelor de siguranță."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/inspector-ssm-pitesti-2",
+    "title": "Inspector SSM - Pitesti",
+    "company": "IMSAT BIHOR SRL",
+    "location": [
+      "Pitești",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T14:57:34Z",
+    "status": "tested",
+    "tags": [
+      "Securitate muncă",
+      "Urgențe"
+    ],
+    "matchPercentage": 82,
+    "reason": "Inspector SSM și SU pe șantier cu sarcini directe de respectare a normelor, evaluare de riscuri și monitorizare a echipamentelor de protecție, fără cerință de experiență."
   },
   {
     "url": "https://www.leohr.ro/jobs/laborant-microbiologie/56/",
@@ -192,44 +228,203 @@
       "prevenire infecții",
       "echipamente laborator"
     ],
-    "matchPercentage": 68,
-    "reason": "Laborantul de microbiologie se încadrează la igienă și sănătate publică prin prevenirea infecțiilor și lucrul cu echipamente de laborator, deși descrierea nu detaliază sarcinile."
+    "matchPercentage": 80,
+    "reason": "Laborant de microbiologie, domeniu în care se aplică procedurile de prevenire a infecțiilor și lucrul cu echipamente de laborator."
   },
   {
-    "url": "https://www.teamland.ro/apply.php?id=965",
-    "title": "Laborant determinari fizico-mecanice",
-    "company": "TEAMLAND SRL",
+    "url": "https://multijobs.ro/job/inspector-ssm-santier/6525",
+    "title": "Inspector SSM santier",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
     "location": [
-      "Ploiesti",
+      "Galati",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-17T11:34:09Z",
+    "date": "2026-11-17T09:16:57Z",
+    "status": "tested",
+    "tags": [
+      "Securitate muncă",
+      "Echipamente protecție"
+    ],
+    "matchPercentage": 80,
+    "reason": "Inspector SSM pe șantier, cu atribuții de securitate în muncă la nivel entry-level."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3434694",
+    "title": "OPERATOR FABRICATIE FLUX",
+    "company": "STADA M&amp;D SRL",
+    "location": [
+      "TURDA",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-16T12:59:33Z",
+    "status": "verified",
+    "tags": [
+      "Control calitate",
+      "Evidență raportare"
+    ],
+    "matchPercentage": 80,
+    "reason": "Operator în producție farmaceutică ce aplică normele BPF și controlul calității, domeniu chimic și nivel entry-level."
+  },
+  {
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/272923/Electromontaj/Inspector-SSM",
+    "title": "Inspector SSM",
+    "company": "GREEN ELECTROMONTAJ SRL",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T13:25:56Z",
+    "status": "tested",
+    "tags": [
+      "Securitate muncă"
+    ],
+    "matchPercentage": 78,
+    "reason": "Poziție de inspector SSM într-o companie industrială, domeniu direct și nivel de început de carieră."
+  },
+  {
+    "url": "https://multijobs.ro/job/specialist-ssm/5437",
+    "title": "Specialist SSM",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T11:44:16Z",
+    "status": "tested",
+    "tags": [
+      "Securitate muncă"
+    ],
+    "matchPercentage": 78,
+    "reason": "Poziție de specialist SSM, domeniu direct potrivit și nivel aparent junior/mid."
+  },
+  {
+    "url": "https://multijobs.ro/job/inginer-in-industria-alimentara/5813",
+    "title": "INGINER ÎN INDUSTRIA ALIMENTARA",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "location": [
+      "Cluj-Napoca",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T12:54:14Z",
     "status": "tested",
     "tags": [
       "control calitate",
-      "securitate muncă"
+      "igienizare suprafețe"
     ],
-    "matchPercentage": 68,
-    "reason": "Determinările fizico-mecanice implică controlul calității, echipamente de laborator și respectarea normelor de securitate, în regim de schimburi."
+    "matchPercentage": 72,
+    "reason": "Inginer în industria alimentară, producție de proces și control al calității, Relevant pentru un absolvent de profil tehnic."
   },
   {
-    "url": "https://electrogrup.applytojob.com/apply/jobs/details/i0rSAnwnMS",
-    "title": "Automatist de Proces",
-    "company": "NOVA POWER &amp; GAS S.A.",
+    "url": "https://www.valrom.ro/joburi/operator-statie-amestecare-materii-prime/",
+    "title": "Operator Statie Amestecare Materii Prime",
+    "company": "VALROM INDUSTRIE SRL",
     "location": [
-      "Campia Turzii",
+      "București",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-18T14:38:01Z",
+    "date": "2026-11-19T15:31:18.626Z",
     "status": "scraped",
     "tags": [
-      "Monitorizare parametri",
-      "Operare echipamente"
+      "operare echipamente",
+      "parametri proces"
+    ],
+    "matchPercentage": 70,
+    "reason": "Operator la stația de amestecare și dozare în producție industrială, cu operarea echipamentelor tehnologice și verificarea parametrilor de proces."
+  },
+  {
+    "url": "https://www.adecco.com/ro-ro/job-search/asistent-manager-cluj-napoca-cluj/JN-062026-1106949",
+    "title": "Operator in productie",
+    "company": "ADECCO SRL",
+    "location": [
+      "Brașov",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T15:20:14Z",
+    "status": "tested",
+    "tags": [
+      "Operare echipamente",
+      "Control calitate"
+    ],
+    "matchPercentage": 70,
+    "reason": "Sarcinile includ operarea echipamentelor, monitorizarea liniei, controlul calității și rezolvarea problemelor tehnice, în producția industrială, la nivel entry-level."
+  },
+  {
+    "url": "https://www.publi24.ro/anunturi/locuri-de-munca/soferi-transporturi/curierat-livrari/anunt/operator-fabrica-industria-alimentara-ghitta/6h88id08e581791de2hi49f8iiih5fhg.html",
+    "title": "Operator fabrica industria alimentara GHITTA",
+    "company": "PUBLI24 DIGITAL S.R.L.",
+    "location": [
+      "Baia Mare",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T12:35:20Z",
+    "status": "tested",
+    "tags": [
+      "igienizare suprafețe",
+      "operare echipamente"
     ],
     "matchPercentage": 68,
-    "reason": "Rolul folosește monitorizarea parametrilor de proces și operarea echipamentelor în producție, deși este orientat spre automatizări electrice."
+    "reason": "Operator într-o fabrică de industrie alimentară, activitate de producție cu cerințe de igienizare și operare a echipamentelor."
+  },
+  {
+    "url": "https://www.randstad.ro/locuri-de-munca/controlor-calitate_ploiesti_5516/",
+    "title": "controlor calitate",
+    "company": "RANDSTAD ROMANIA SRL",
+    "location": [
+      "Ploiești",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-19T15:13:02.403Z",
+    "status": "scraped",
+    "tags": [
+      "Controlul calității",
+      "Monitorizarea parametrilor"
+    ],
+    "matchPercentage": 68,
+    "reason": "Post de controlor calitate în producție, parțial relevant pentru competențele de control al calității, deși domeniul industrial nu este specificat ca chimic."
+  },
+  {
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/273412/Brainspotting/Ai-certificare-SSM?-Vino-sa-iti-incepi-cariera-intr-o-companie-internationala%21-%F0%9F%9A%80=",
+    "title": "Ai certificare SSM? Vino sa iti incepi cariera intr-o companie internationala! 🚀",
+    "company": "BRAINSPOTTING SRL",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T10:23:36Z",
+    "status": "tested",
+    "tags": [
+      "Securitate muncă"
+    ],
+    "matchPercentage": 68,
+    "reason": "Deși anunțul este publicat de o agenție de recrutare, vizează explicit un început de carieră pentru candidați cu certificare SSM."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/personal-calificat-in-industria-oil-gas-1",
+    "title": "Personal calificat in industria OIL și GAS",
+    "company": "KATO GROUP SRL",
+    "location": [
+      "JUD. PRAHOVA",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T12:12:59Z",
+    "status": "tested",
+    "tags": [
+      "substanțe chimice",
+      "securitate muncă"
+    ],
+    "matchPercentage": 65,
+    "reason": "Personal calificat în industria oil and gas, domeniu de proces înrudit cu industria chimică, cu manipulare de substanțe și norme de securitate."
   },
   {
     "url": "https://oferimdemunca.ro/job/laborant-tehnician-in-constructii/",
@@ -243,11 +438,11 @@
     "date": "2026-11-17T11:08:04Z",
     "status": "tested",
     "tags": [
-      "control calitate",
-      "echipamente laborator"
+      "echipamente laborator",
+      "control calitate"
     ],
     "matchPercentage": 65,
-    "reason": "Preluarea probelor, încercările de control al calității și fișele tehnice folosesc competențe de laborant, iar postul acceptă candidați fără experiență, deși domeniul este construcțiile."
+    "reason": "Laborator de control al calității materialelor, cu nivel fără experiență, deși domeniul construcțiilor este doar parțial înrudit."
   },
   {
     "url": "https://oferimdemunca.ro/job/operator-statie-materii-prime-sector-6/",
@@ -265,41 +460,78 @@
       "Operare echipamente"
     ],
     "matchPercentage": 65,
-    "reason": "Operator la stația de materii prime dintr-o fabrică de mase plastice: manipulează substanțe chimice și operează echipamente, la nivel de operator."
+    "reason": "Operator la stația de materii prime, rol din producția industrială care implică manipularea materialelor și operarea echipamentelor, la nivel de început."
   },
   {
-    "url": "https://www.teamland.ro/apply.php?id=1246",
-    "title": "Laborant determinari fizico-mecanice",
-    "company": "TEAMLAND SRL",
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3440078",
+    "title": "INGINER ÎN INDUSTRIA ALIMENTARA",
+    "company": "FABRICA DE CARNE MORANDI S.R.L.",
     "location": [
-      "Ploiesti",
+      "Muntenii de jos",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-17T10:28:12Z",
-    "status": "tested",
+    "date": "2026-11-16T13:56:47Z",
+    "status": "verified",
     "tags": [
       "control calitate",
-      "echipamente laborator"
+      "monitorizare parametri"
     ],
-    "matchPercentage": 63,
-    "reason": "Postul de laborant pentru determinări fizico-mecanice vizează controlul calității și utilizarea echipamentelor de laborator, nivelul fiind entry-level."
+    "matchPercentage": 65,
+    "reason": "Inginer în industria alimentară, nivel entry-level sub 3 ani, cu sarcini de proces, calitate și igienă parțial transferabile."
   },
   {
-    "url": "https://www.jobradar24.ro/anunt/laborant-ctc-rr0kxq",
-    "title": "Laborant CTC",
-    "company": "ELIS PAVAJE SRL",
+    "url": "https://www.valrom.ro/joburi/operator-productie-fabrica-pantelimon/",
+    "title": "Operator Productie Fabrica Pantelimon",
+    "company": "VALROM INDUSTRIE SRL",
     "location": [
-      "Aricestii Rahtivani",
+      "București",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-17T09:38:21Z",
+    "date": "2026-11-19T15:31:18.626Z",
+    "status": "scraped",
+    "tags": [
+      "operare echipamente",
+      "condiții funcționare"
+    ],
+    "matchPercentage": 62,
+    "reason": "Operator la utilajele de formare a maselor plastice, cu montarea matrițelor, alimentarea cu materie primă și programarea echipamentelor în producție industrială."
+  },
+  {
+    "url": "https://multijobs.ro/job/tehnician-proces-turnare/1526",
+    "title": "Tehnician Proces Turnare",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "location": [
+      "Oradea",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T12:03:59Z",
     "status": "tested",
     "tags": [
-      "control calitate"
+      "Operarea echipamentelor",
+      "Monitorizarea parametrilor"
     ],
-    "matchPercentage": 60,
-    "reason": "Laborantul CTC din producția de pavaje vizează controlul tehnic al calității, parțial relevant, dar descrierea nu oferă sarcini sau cerințe de nivel concrete."
+    "matchPercentage": 62,
+    "reason": "Rol tehnic în proces de turnare din producția industrială, parțial compatibil prin operare și monitorizare, dar într-un domeniu diferit de industria chimică."
+  },
+  {
+    "url": "https://multijobs.ro/job/tehnician-proces-turnare/1527",
+    "title": "Tehnician Proces Turnare",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "location": [
+      "Oradea",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T11:28:41Z",
+    "status": "tested",
+    "tags": [
+      "Operarea echipamentelor",
+      "Monitorizarea parametrilor"
+    ],
+    "matchPercentage": 62,
+    "reason": "Poziție similară de tehnician proces turnare, cu relevanță parțială pentru producția industrială, însă fără specific chimic."
   }
 ]
