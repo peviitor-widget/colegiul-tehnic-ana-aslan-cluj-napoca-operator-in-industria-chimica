@@ -1,59 +1,5 @@
 [
   {
-    "url": "https://oferimdemunca.ro/job/laborant-chimist/",
-    "title": "Laborant chimist",
-    "company": "SMART OUTSOURCING SERVICES S.R.L.",
-    "location": [
-      "București",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T15:01:32Z",
-    "status": "tested",
-    "tags": [
-      "substanțe chimice",
-      "echipamente laborator"
-    ],
-    "matchPercentage": 92,
-    "reason": "Laborantul chimist dintr-o fabrică de vopsele lavabile manipulează substanțe chimice și folosește echipamente de laborator pentru controlul calității, la nivel de început."
-  },
-  {
-    "url": "https://oferimdemunca.ro/job/laborant-chimist-4/",
-    "title": "Laborant chimist",
-    "company": "SMART OUTSOURCING SERVICES S.R.L.",
-    "location": [
-      "București",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T14:31:46Z",
-    "status": "tested",
-    "tags": [
-      "substanțe chimice",
-      "echipamente laborator"
-    ],
-    "matchPercentage": 92,
-    "reason": "Analizele din fabrica de vopsele lavabile presupun manipularea substanțelor chimice și utilizarea echipamentelor de laborator în schimburi, potrivite unui laborant la început de carieră."
-  },
-  {
-    "url": "https://oferimdemunca.ro/job/laborant-chimist-2/",
-    "title": "Laborant chimist",
-    "company": "SMART OUTSOURCING SERVICES S.R.L.",
-    "location": [
-      "București",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T10:10:11Z",
-    "status": "tested",
-    "tags": [
-      "substanțe chimice",
-      "echipamente laborator"
-    ],
-    "matchPercentage": 92,
-    "reason": "Postul de laborant chimist de la fabrica de vopsele din Sector 3 folosește substanțe chimice și echipamente de laborator pentru controlul calității."
-  },
-  {
     "url": "https://jobs.smartrecruiters.com/SGS/744000126084800",
     "title": "Laborant Chimist",
     "company": "SGS - TIM SRL",
@@ -65,64 +11,29 @@
     "date": "2026-11-17T14:26:34Z",
     "status": "tested",
     "tags": [
-      "substanțe chimice",
-      "monitorizare parametri"
+      "Substanțe chimice",
+      "Echipamente laborator"
     ],
-    "matchPercentage": 90,
-    "reason": "Pregătirea probelor și analizele chimice și fizice, cu înregistrarea parametrilor, folosesc direct echipamentele de laborator și controlul calității."
+    "matchPercentage": 92,
+    "reason": "Laborantul chimist de la SGS efectuează analize chimice și fizice, pregătește probele și înregistrează parametrii de proces, potrivindu-se direct domeniului."
   },
   {
-    "url": "https://www.leohr.ro/jobs/laborant-microbiologie/56/",
-    "title": "Laborant Microbiologie",
-    "company": "LEOHR S.R.L.",
+    "url": "https://electrogrup.applytojob.com/apply/jobs/details/hB97nINmjj",
+    "title": "Automatist de Proces",
+    "company": "NOVA POWER &amp; GAS S.A.",
     "location": [
-      "Bucuresti",
+      "Campia Turzii",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-17T14:39:26Z",
-    "status": "tested",
-    "tags": [
-      "prevenire infecție",
-      "echipamente laborator"
-    ],
-    "matchPercentage": 88,
-    "reason": "Laborantul de microbiologie lucrează cu echipamente de laborator și proceduri de prevenire a infecției, domeniu direct legat de igiena și sănătatea publică."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3441049",
-    "title": "LABORANT DETERMINARI FIZICO-MECANICE",
-    "company": "MICHELIN ROMANIA S.A.",
-    "location": [
-      "România"
-    ],
-    "salary": null,
-    "date": "2026-11-24T16:42:03.890Z",
+    "date": "2026-11-25T16:12:35Z",
     "status": "scraped",
     "tags": [
-      "echipamente laborator",
-      "controlul calității"
+      "Parametri proces",
+      "Operare echipamente"
     ],
-    "matchPercentage": 85,
-    "reason": "Determinările fizico-mecanice la Michelin folosesc echipamentele de laborator și controlul calității în producție, iar cerința de sub 3 ani experiență corespunde nivelului entry-level."
-  },
-  {
-    "url": "https://www.teamland.ro/apply.php?id=965",
-    "title": "Laborant determinari fizico-mecanice",
-    "company": "TEAMLAND SRL",
-    "location": [
-      "Ploiesti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T11:34:09Z",
-    "status": "tested",
-    "tags": [
-      "echipamente laborator",
-      "securitate muncă"
-    ],
-    "matchPercentage": 82,
-    "reason": "Determinările fizico-mecanice în schimburi folosesc echipamentele de laborator și impun respectarea normelor de securitate și purtarea echipamentului de protecție."
+    "matchPercentage": 88,
+    "reason": "Automatistul de proces monitorizează parametrii de proces și operează/depanează echipamente tehnologice, competențe directe ale operatorului chimic, la nivel de execuție."
   },
   {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3434694",
@@ -136,11 +47,28 @@
     "date": "2026-11-16T12:59:33Z",
     "status": "verified",
     "tags": [
-      "Control calitate",
-      "Evidenta raportare"
+      "control calitate",
+      "evidență raportare"
     ],
-    "matchPercentage": 82,
-    "reason": "Operator în fabricație farmaceutică ce aplică regulile BPF și manualul calității, la nivel entry-level, folosind direct controlul calității și evidența operațiilor."
+    "matchPercentage": 88,
+    "reason": "Operator fabricație la STADA, producător farmaceutic, cu aplicarea fișei de fabricație, a normelor BPF și controlul calității – potrivire directă ca domeniu și nivel entry-level."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3441049",
+    "title": "LABORANT DETERMINARI FIZICO-MECANICE",
+    "company": "MICHELIN ROMANIA S.A.",
+    "location": [
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-11-25T16:27:15.204Z",
+    "status": "scraped",
+    "tags": [
+      "Control calitate",
+      "Echipamente laborator"
+    ],
+    "matchPercentage": 85,
+    "reason": "Laborantul în determinări fizico-mecanice din producția industrială folosește direct echipamentele de laborator și controlul calității, la nivel de început de carieră."
   },
   {
     "url": "https://www.teamland.ro/apply.php?id=1246",
@@ -154,65 +82,65 @@
     "date": "2026-11-17T10:28:12Z",
     "status": "tested",
     "tags": [
-      "echipamente laborator",
-      "controlul calității"
+      "Control calitate",
+      "Echipamente laborator"
     ],
-    "matchPercentage": 80,
-    "reason": "Munca de laborant la determinări fizico-mecanice implică echipamente de laborator și controlul calității în producție, la nivel entry-level."
+    "matchPercentage": 82,
+    "reason": "Laborantul pentru determinări fizico-mecanice lucrează în controlul calității producției cu echipamente de laborator, la nivel entry-level."
   },
   {
-    "url": "https://oferimdemunca.ro/job/laborant-tehnician-in-constructii/",
-    "title": "Laborant/Tehnician în construcții",
-    "company": "BETONTEST &amp; CONSULTING CO SRL",
+    "url": "https://www.randstad.ro/locuri-de-munca/controlor-calitate_ploiesti_5516/",
+    "title": "controlor calitate",
+    "company": "RANDSTAD ROMANIA SRL",
     "location": [
-      "Agigea",
+      "Ploiești",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-17T11:08:04Z",
+    "date": "2026-11-25T16:45:32.774Z",
+    "status": "scraped",
+    "tags": [
+      "Control calitate",
+      "Producție"
+    ],
+    "matchPercentage": 78,
+    "reason": "Controlorul de calitate din producție aplică direct controlul calității în producție, iar cerințele de studii medii și fără experiență obligatorie permit candidatura."
+  },
+  {
+    "url": "https://www.ejobs.ro/user/locuri-de-munca/inginer-proces-apa-potabila-uzina-de-apa-tarnaveni/99249874",
+    "title": "Inginer proces apa potabila (Uzina de apa Tarnaveni)",
+    "company": "COMPANIA AQUASERV SA",
+    "location": [
+      "Tarnaveni",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T11:07:32Z",
     "status": "tested",
     "tags": [
-      "echipamente laborator",
-      "controlul calității"
+      "Parametri proces",
+      "Substanțe chimice"
+    ],
+    "matchPercentage": 75,
+    "reason": "Procesul de obținere a apei potabile folosește monitorizarea parametrilor, manipularea substanțelor chimice și echipamente de laborator, iar postul de inginer proces nu este unul de conducere."
+  },
+  {
+    "url": "https://www.adecco.com/ro-ro/job-search/asistent-manager-cluj-napoca-cluj/JN-062026-1106949",
+    "title": "Operator in productie",
+    "company": "ADECCO SRL",
+    "location": [
+      "Brașov",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T15:20:14Z",
+    "status": "tested",
+    "tags": [
+      "Operarea echipamentelor",
+      "Controlul calității"
     ],
     "matchPercentage": 70,
-    "reason": "Prepararea probelor, încercările de control al calității și fișele tehnice folosesc echipamentele de laborator fără experiență anterioară, însă domeniul betoanelor e doar parțial relevant."
-  },
-  {
-    "url": "https://cariere.reginamaria.ro/company/regina-maria-1/jobs/asistent-medical-urgenta",
-    "title": "Asistent Medical Urgenta",
-    "company": "REGINA MARIA - BANCA CENTRALĂ DE CELULE STEM S.A.",
-    "location": [
-      "Timișoara",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T10:03:37Z",
-    "status": "tested",
-    "tags": [
-      "criză sanitară",
-      "prevenire infecții"
-    ],
-    "matchPercentage": 70,
-    "reason": "Asistentă de urgență cu prim ajutor, sterilizare și recoltare de probe, în domeniul crizelor sanitare și al igienei."
-  },
-  {
-    "url": "https://oferimdemunca.ro/job/laborant-in-constructii-galati/",
-    "title": "Laborant in constructii/ Galati",
-    "company": "SMART OUTSOURCING SERVICES S.R.L.",
-    "location": [
-      "Galaţi",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T15:05:43Z",
-    "status": "tested",
-    "tags": [
-      "echipamente laborator",
-      "controlul calității"
-    ],
-    "matchPercentage": 65,
-    "reason": "Laborantul în construcții aparține controlului calității prin încercări de laborator, dar materialele și șantierul sunt specifice construcțiilor, deci potrivirea e doar parțială."
+    "reason": "Sarcinile folosesc direct operarea echipamentelor, controlul calității, monitorizarea procesului și normele de securitate, la nivel entry-level în producția industrială."
   },
   {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3317757",
@@ -226,10 +154,64 @@
     "date": "2026-11-16T13:11:14Z",
     "status": "tested",
     "tags": [
-      "prevenire infecții",
-      "securitate muncă"
+      "prevenire infecției",
+      "echipamente medicale"
+    ],
+    "matchPercentage": 70,
+    "reason": "Sarcinile folosesc direct prevenirea infecțiilor, normele de igienă și gestionarea echipamentelor, iar postul e entry-level."
+  },
+  {
+    "url": "https://cariere.reginamaria.ro/company/regina-maria-1/jobs/asistent-medical-urgenta",
+    "title": "Asistent Medical Urgenta",
+    "company": "REGINA MARIA - BANCA CENTRALĂ DE CELULE STEM S.A.",
+    "location": [
+      "Timișoara",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T10:03:37Z",
+    "status": "tested",
+    "tags": [
+      "dezinfectare",
+      "echipamente laborator"
+    ],
+    "matchPercentage": 70,
+    "reason": "Recoltarea probelor, sterilizarea și primul ajutor în urgențe folosesc igiena, echipamentele de laborator și gestionarea crizelor sanitare la nivel entry-level."
+  },
+  {
+    "url": "https://www.jobradar24.ro/anunt/laborant-ctc-rr0kxq",
+    "title": "Laborant CTC",
+    "company": "ELIS PAVAJE SRL",
+    "location": [
+      "Aricestii Rahtivani",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T09:38:21Z",
+    "status": "tested",
+    "tags": [
+      "Control calitate",
+      "Echipamente laborator"
+    ],
+    "matchPercentage": 68,
+    "reason": "Laborantul CTC din producția de pavaje presupune controlul calității și utilizarea echipamentelor de laborator, compatibile cu un absolvent începător."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3440078",
+    "title": "INGINER ÎN INDUSTRIA ALIMENTARA",
+    "company": "FABRICA DE CARNE MORANDI S.R.L.",
+    "location": [
+      "Muntenii de jos",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-16T13:56:47Z",
+    "status": "verified",
+    "tags": [
+      "Controlul calității",
+      "Igienizare"
     ],
     "matchPercentage": 65,
-    "reason": "Rol entry-level în imagistică, cu sarcini explicite de prevenire a infecțiilor, radioprotecție și gestionare a echipamentelor."
+    "reason": "Inginer în industria alimentară cu sub 3 ani experiență, în cadrul producției industriale, unde se pot aplica controlul calității și igienizarea."
   }
 ]
