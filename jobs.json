@@ -1,5 +1,58 @@
 [
   {
+    "url": "https://cariere.reginamaria.ro/company/regina-maria-1/jobs/asistent-medical-urgenta",
+    "title": "Asistent Medical Urgenta",
+    "company": "REGINA MARIA - BANCA CENTRALĂ DE CELULE STEM S.A.",
+    "location": [
+      "Timișoara",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T10:03:37Z",
+    "status": "tested",
+    "tags": [
+      "laborator",
+      "dezinfectare"
+    ],
+    "matchPercentage": 90,
+    "reason": "Recoltarea probelor, primul ajutor, investigațiile EKG/spirometrie și sterilizarea folosesc direct competențe de laborator, urgență și dezinfectare."
+  },
+  {
+    "url": "https://kronospan-candidate.talent-soft.com/job/job-inginer-chimist-instalatia-de-formaldehida-formalin-production_12918.aspx",
+    "title": "Inginer chimist – instalația de formaldehidă / Formalin Production",
+    "company": "KRONOSPAN SEBES SA",
+    "location": [
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-11-26T16:44:33.612Z",
+    "status": "scraped",
+    "tags": [
+      "substanțe chimice",
+      "parametri proces"
+    ],
+    "matchPercentage": 88,
+    "reason": "Domeniul chimic se potrivește perfect, producția de formaldehidă implicând manipularea substanțelor chimice, monitorizarea parametrilor de proces și respectarea normelor de securitate, iar postul nu cere experiență îndelungată."
+  },
+  {
+    "url": "https://www.antibiotice.ro/joburi/operator-productie/",
+    "title": "Operator Productie",
+    "company": "ANTIBIOTICE SA",
+    "location": [
+      "Iași",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-26T16:37:39.273Z",
+    "status": "scraped",
+    "tags": [
+      "echipamente tehnologice",
+      "control calitate"
+    ],
+    "matchPercentage": 88,
+    "reason": "Producția farmaceutică de antibiotice folosește operarea echipamentelor tehnologice, monitorizarea parametrilor și controlul calității, la nivel de operator."
+  },
+  {
     "url": "https://jobs.smartrecruiters.com/SGS/744000126084800",
     "title": "Laborant Chimist",
     "company": "SGS - TIM SRL",
@@ -11,29 +64,29 @@
     "date": "2026-11-17T14:26:34Z",
     "status": "tested",
     "tags": [
-      "Substanțe chimice",
-      "Echipamente laborator"
+      "Echipamente laborator",
+      "Control calitate"
     ],
-    "matchPercentage": 92,
-    "reason": "Laborantul chimist de la SGS efectuează analize chimice și fizice, pregătește probele și înregistrează parametrii de proces, potrivindu-se direct domeniului."
+    "matchPercentage": 88,
+    "reason": "Laborantul chimist pregătește probele, efectuează analize fizice și chimice și înregistrează parametrii, folosind direct echipamentele de laborator și controlul calității."
   },
   {
-    "url": "https://electrogrup.applytojob.com/apply/jobs/details/hB97nINmjj",
-    "title": "Automatist de Proces",
-    "company": "NOVA POWER &amp; GAS S.A.",
+    "url": "https://www.antibiotice.ro/joburi/operator-exploatare-si-mentenanta-2/",
+    "title": "Operator exploatare și mentenanță",
+    "company": "ANTIBIOTICE SA",
     "location": [
-      "Campia Turzii",
+      "Iași",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-25T16:12:35Z",
+    "date": "2026-11-26T16:37:39.273Z",
     "status": "scraped",
     "tags": [
-      "Parametri proces",
-      "Operare echipamente"
+      "probleme tehnice",
+      "echipamente tehnologice"
     ],
-    "matchPercentage": 88,
-    "reason": "Automatistul de proces monitorizează parametrii de proces și operează/depanează echipamente tehnologice, competențe directe ale operatorului chimic, la nivel de execuție."
+    "matchPercentage": 86,
+    "reason": "Exploatarea și mentenanța echipamentelor din fabrica de antibiotice corespund competențelor de asigurare a funcționării și rezolvare a problemelor tehnice, fără cerințe senioare."
   },
   {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3434694",
@@ -47,28 +100,47 @@
     "date": "2026-11-16T12:59:33Z",
     "status": "verified",
     "tags": [
-      "control calitate",
-      "evidență raportare"
-    ],
-    "matchPercentage": 88,
-    "reason": "Operator fabricație la STADA, producător farmaceutic, cu aplicarea fișei de fabricație, a normelor BPF și controlul calității – potrivire directă ca domeniu și nivel entry-level."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3441049",
-    "title": "LABORANT DETERMINARI FIZICO-MECANICE",
-    "company": "MICHELIN ROMANIA S.A.",
-    "location": [
-      "România"
-    ],
-    "salary": null,
-    "date": "2026-11-25T16:27:15.204Z",
-    "status": "scraped",
-    "tags": [
-      "Control calitate",
-      "Echipamente laborator"
+      "Controlul calității",
+      "Evidența"
     ],
     "matchPercentage": 85,
-    "reason": "Laborantul în determinări fizico-mecanice din producția industrială folosește direct echipamentele de laborator și controlul calității, la nivel de început de carieră."
+    "reason": "Operatorul de fabricație farmaceutică STADA folosește direct controlul calității, regulile BPF și înregistrarea operațiilor."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3293823",
+    "title": "ASISTENT MEDICAL GENERALIST",
+    "company": "MEDICOVER HOSPITALS SRL",
+    "location": [
+      "BUCURESTI SECTORUL 1",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-16T13:11:14Z",
+    "status": "tested",
+    "tags": [
+      "protecție medicală",
+      "prevenire infecții"
+    ],
+    "matchPercentage": 82,
+    "reason": "Asistent medical generalist în spital, nivel postliceal cu sub 3 ani experiență, folosește direct proceduri de prevenire a infecției și echipamente medicale."
+  },
+  {
+    "url": "https://www.teamland.ro/apply.php?id=965",
+    "title": "Laborant determinari fizico-mecanice",
+    "company": "TEAMLAND SRL",
+    "location": [
+      "Ploiesti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T11:34:09Z",
+    "status": "tested",
+    "tags": [
+      "Echipamente laborator",
+      "Securitate muncă"
+    ],
+    "matchPercentage": 76,
+    "reason": "Determinările fizico-mecanice în schimburi implică echipamente de laborator, respectarea normelor de securitate și controlul calității în producție."
   },
   {
     "url": "https://www.teamland.ro/apply.php?id=1246",
@@ -82,101 +154,11 @@
     "date": "2026-11-17T10:28:12Z",
     "status": "tested",
     "tags": [
-      "Control calitate",
-      "Echipamente laborator"
+      "Echipamente laborator",
+      "Securitate muncă"
     ],
-    "matchPercentage": 82,
-    "reason": "Laborantul pentru determinări fizico-mecanice lucrează în controlul calității producției cu echipamente de laborator, la nivel entry-level."
-  },
-  {
-    "url": "https://www.randstad.ro/locuri-de-munca/controlor-calitate_ploiesti_5516/",
-    "title": "controlor calitate",
-    "company": "RANDSTAD ROMANIA SRL",
-    "location": [
-      "Ploiești",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-25T16:45:32.774Z",
-    "status": "scraped",
-    "tags": [
-      "Control calitate",
-      "Producție"
-    ],
-    "matchPercentage": 78,
-    "reason": "Controlorul de calitate din producție aplică direct controlul calității în producție, iar cerințele de studii medii și fără experiență obligatorie permit candidatura."
-  },
-  {
-    "url": "https://www.ejobs.ro/user/locuri-de-munca/inginer-proces-apa-potabila-uzina-de-apa-tarnaveni/99249874",
-    "title": "Inginer proces apa potabila (Uzina de apa Tarnaveni)",
-    "company": "COMPANIA AQUASERV SA",
-    "location": [
-      "Tarnaveni",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T11:07:32Z",
-    "status": "tested",
-    "tags": [
-      "Parametri proces",
-      "Substanțe chimice"
-    ],
-    "matchPercentage": 75,
-    "reason": "Procesul de obținere a apei potabile folosește monitorizarea parametrilor, manipularea substanțelor chimice și echipamente de laborator, iar postul de inginer proces nu este unul de conducere."
-  },
-  {
-    "url": "https://www.adecco.com/ro-ro/job-search/asistent-manager-cluj-napoca-cluj/JN-062026-1106949",
-    "title": "Operator in productie",
-    "company": "ADECCO SRL",
-    "location": [
-      "Brașov",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T15:20:14Z",
-    "status": "tested",
-    "tags": [
-      "Operarea echipamentelor",
-      "Controlul calității"
-    ],
-    "matchPercentage": 70,
-    "reason": "Sarcinile folosesc direct operarea echipamentelor, controlul calității, monitorizarea procesului și normele de securitate, la nivel entry-level în producția industrială."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3317757",
-    "title": "ASISTENT MEDICAL RADIOLOGIE",
-    "company": "DEXA DIAGNOSTIC S.R.L.",
-    "location": [
-      "PLOIESTI",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-16T13:11:14Z",
-    "status": "tested",
-    "tags": [
-      "prevenire infecției",
-      "echipamente medicale"
-    ],
-    "matchPercentage": 70,
-    "reason": "Sarcinile folosesc direct prevenirea infecțiilor, normele de igienă și gestionarea echipamentelor, iar postul e entry-level."
-  },
-  {
-    "url": "https://cariere.reginamaria.ro/company/regina-maria-1/jobs/asistent-medical-urgenta",
-    "title": "Asistent Medical Urgenta",
-    "company": "REGINA MARIA - BANCA CENTRALĂ DE CELULE STEM S.A.",
-    "location": [
-      "Timișoara",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T10:03:37Z",
-    "status": "tested",
-    "tags": [
-      "dezinfectare",
-      "echipamente laborator"
-    ],
-    "matchPercentage": 70,
-    "reason": "Recoltarea probelor, sterilizarea și primul ajutor în urgențe folosesc igiena, echipamentele de laborator și gestionarea crizelor sanitare la nivel entry-level."
+    "matchPercentage": 74,
+    "reason": "Determinările fizico-mecanice în schimburi implică echipamente de laborator, respectarea normelor de securitate și controlul calității în producție."
   },
   {
     "url": "https://www.jobradar24.ro/anunt/laborant-ctc-rr0kxq",
@@ -193,25 +175,61 @@
       "Control calitate",
       "Echipamente laborator"
     ],
-    "matchPercentage": 68,
-    "reason": "Laborantul CTC din producția de pavaje presupune controlul calității și utilizarea echipamentelor de laborator, compatibile cu un absolvent începător."
+    "matchPercentage": 70,
+    "reason": "Laborantul CTC din producția de pavaje se suprapune direct pe competențele de control al calității și de utilizare a echipamentelor de laborator."
   },
   {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3440078",
-    "title": "INGINER ÎN INDUSTRIA ALIMENTARA",
-    "company": "FABRICA DE CARNE MORANDI S.R.L.",
+    "url": "https://www.adecco.com/ro-ro/job-search/asistent-manager-cluj-napoca-cluj/JN-062026-1106949",
+    "title": "Operator in productie",
+    "company": "ADECCO SRL",
     "location": [
-      "Muntenii de jos",
+      "Brașov",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-16T13:56:47Z",
-    "status": "verified",
+    "date": "2026-11-17T15:20:14Z",
+    "status": "tested",
     "tags": [
-      "Controlul calității",
-      "Igienizare"
+      "Operare echipamente",
+      "Control calitate"
     ],
     "matchPercentage": 65,
-    "reason": "Inginer în industria alimentară cu sub 3 ani experiență, în cadrul producției industriale, unde se pot aplica controlul calității și igienizarea."
+    "reason": "Operator în producție industrială cu operare de echipamente, controlul calității, monitorizarea liniei și norme de siguranță, la nivel entry-level."
+  },
+  {
+    "url": "https://www.ejobs.ro/user/locuri-de-munca/programator-fabricatie-pp-c/99254808",
+    "title": "Programator fabricatie - PP și C",
+    "company": "A-E ELECTRONICS SA",
+    "location": [
+      "Bacau",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T10:25:19Z",
+    "status": "tested",
+    "tags": [
+      "Gestionarea stocurilor",
+      "Evidența"
+    ],
+    "matchPercentage": 60,
+    "reason": "Planificarea producției de electronici e domeniu industrial la nivel entry, cu monitorizarea materialelor și evidența activității."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3438240",
+    "title": "PROGRAMATOR FABRICATIE/LANSATOR FABRICATIE",
+    "company": "A-E ELECTRONICS SA",
+    "location": [
+      "BACAU",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-16T12:59:33Z",
+    "status": "verified",
+    "tags": [
+      "Gestionarea stocurilor",
+      "Evidența"
+    ],
+    "matchPercentage": 60,
+    "reason": "Planificarea producției cu sub 3 ani experiență folosește monitorizarea materialelor și evidența activității într-un domeniu industrial."
   }
 ]
