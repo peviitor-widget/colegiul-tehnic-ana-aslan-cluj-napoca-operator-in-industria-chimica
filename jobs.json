@@ -1,74 +1,21 @@
 [
   {
-    "url": "https://cariere.reginamaria.ro/company/regina-maria-1/jobs/asistent-medical-urgenta",
-    "title": "Asistent Medical Urgenta",
-    "company": "REGINA MARIA - BANCA CENTRALĂ DE CELULE STEM S.A.",
+    "url": "https://www.bestjobs.eu/loc-de-munca/inspector-ssm-pitesti-2",
+    "title": "Inspector SSM - Pitesti",
+    "company": "IMSAT BIHOR SRL",
     "location": [
-      "Timișoara",
+      "Pitești",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-17T10:03:37Z",
+    "date": "2026-11-17T14:57:34Z",
     "status": "tested",
     "tags": [
-      "laborator",
-      "dezinfectare"
+      "securitate muncă",
+      "echipamente protecție"
     ],
     "matchPercentage": 90,
-    "reason": "Recoltarea probelor, primul ajutor, investigațiile EKG/spirometrie și sterilizarea folosesc direct competențe de laborator, urgență și dezinfectare."
-  },
-  {
-    "url": "https://kronospan-candidate.talent-soft.com/job/job-inginer-chimist-instalatia-de-formaldehida-formalin-production_12918.aspx",
-    "title": "Inginer chimist – instalația de formaldehidă / Formalin Production",
-    "company": "KRONOSPAN SEBES SA",
-    "location": [
-      "România"
-    ],
-    "salary": null,
-    "date": "2026-11-26T16:44:33.612Z",
-    "status": "scraped",
-    "tags": [
-      "substanțe chimice",
-      "parametri proces"
-    ],
-    "matchPercentage": 88,
-    "reason": "Domeniul chimic se potrivește perfect, producția de formaldehidă implicând manipularea substanțelor chimice, monitorizarea parametrilor de proces și respectarea normelor de securitate, iar postul nu cere experiență îndelungată."
-  },
-  {
-    "url": "https://www.antibiotice.ro/joburi/operator-productie/",
-    "title": "Operator Productie",
-    "company": "ANTIBIOTICE SA",
-    "location": [
-      "Iași",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-26T16:37:39.273Z",
-    "status": "scraped",
-    "tags": [
-      "echipamente tehnologice",
-      "control calitate"
-    ],
-    "matchPercentage": 88,
-    "reason": "Producția farmaceutică de antibiotice folosește operarea echipamentelor tehnologice, monitorizarea parametrilor și controlul calității, la nivel de operator."
-  },
-  {
-    "url": "https://jobs.smartrecruiters.com/SGS/744000126084800",
-    "title": "Laborant Chimist",
-    "company": "SGS - TIM SRL",
-    "location": [
-      "Constanta",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T14:26:34Z",
-    "status": "tested",
-    "tags": [
-      "Echipamente laborator",
-      "Control calitate"
-    ],
-    "matchPercentage": 88,
-    "reason": "Laborantul chimist pregătește probele, efectuează analize fizice și chimice și înregistrează parametrii, folosind direct echipamentele de laborator și controlul calității."
+    "reason": "Inspector SSM cu studii medii, curs SSM/PSI și sarcini directe de respectare a normelor, evaluare de riscuri și verificarea echipamentelor de protecție."
   },
   {
     "url": "https://www.antibiotice.ro/joburi/operator-exploatare-si-mentenanta-2/",
@@ -79,14 +26,32 @@
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-26T16:37:39.273Z",
+    "date": "2026-11-27T16:23:05.955Z",
     "status": "scraped",
     "tags": [
-      "probleme tehnice",
-      "echipamente tehnologice"
+      "funcționare optimă",
+      "probleme tehnice"
     ],
-    "matchPercentage": 86,
-    "reason": "Exploatarea și mentenanța echipamentelor din fabrica de antibiotice corespund competențelor de asigurare a funcționării și rezolvare a problemelor tehnice, fără cerințe senioare."
+    "matchPercentage": 88,
+    "reason": "Exploatarea și mentenanța echipamentelor de la Antibiotice corespund competențelor de asigurare a funcționării optime și rezolvare a problemelor tehnice, la nivel de operator."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3317757",
+    "title": "ASISTENT MEDICAL RADIOLOGIE",
+    "company": "DEXA DIAGNOSTIC S.R.L.",
+    "location": [
+      "PLOIESTI",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-16T13:11:14Z",
+    "status": "tested",
+    "tags": [
+      "prevenire infecție",
+      "protecție medicală"
+    ],
+    "matchPercentage": 88,
+    "reason": "Asistent medical radiologie cu 0 ani experiență, cu sarcini explicite de radioprotecție, igienă, prevenire a infecțiilor și gestionare a echipamentelor."
   },
   {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3434694",
@@ -101,82 +66,171 @@
     "status": "verified",
     "tags": [
       "Controlul calității",
-      "Evidența"
+      "Operarea echipamentelor"
+    ],
+    "matchPercentage": 88,
+    "reason": "Operator în fabricație farmaceutică cu aplicarea regulilor BPF, controlul calității și lucrul conform fișei de fabricație, la nivel entry-level."
+  },
+  {
+    "url": "https://kronospan-candidate.talent-soft.com/job/job-inginer-chimist-instalatia-de-formaldehida-formalin-production_12918.aspx",
+    "title": "Inginer chimist – instalația de formaldehidă / Formalin Production",
+    "company": "KRONOSPAN SEBES SA",
+    "location": [
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-11-27T16:30:13.847Z",
+    "status": "scraped",
+    "tags": [
+      "substanțe chimice",
+      "parametri proces"
     ],
     "matchPercentage": 85,
-    "reason": "Operatorul de fabricație farmaceutică STADA folosește direct controlul calității, regulile BPF și înregistrarea operațiilor."
+    "reason": "Inginerul chimist la instalația de formaldehidă folosește direct manipularea substanțelor chimice, operarea echipamentelor tehnologice și monitorizarea parametrilor de proces, fără cerințe de senior."
   },
   {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3293823",
-    "title": "ASISTENT MEDICAL GENERALIST",
-    "company": "MEDICOVER HOSPITALS SRL",
+    "url": "https://www.jobradar24.ro/anunt/specialist-ssm-su-si-mediu-8mdwqn",
+    "title": "Specialist SSM, SU si Mediu",
+    "company": "MINET SA",
     "location": [
-      "BUCURESTI SECTORUL 1",
+      "Ramnicu Valcea",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-16T13:11:14Z",
+    "date": "2026-11-17T09:53:17Z",
     "status": "tested",
     "tags": [
-      "protecție medicală",
-      "prevenire infecții"
+      "securitate muncă",
+      "protecție mediu"
+    ],
+    "matchPercentage": 85,
+    "reason": "Specialist SSM, SU și Mediu într-o companie industrială, cu competențe directe în securitate, urgențe și protecția mediului."
+  },
+  {
+    "url": "https://cariere.reginamaria.ro/company/regina-maria-1/jobs/asistent-medical-urgenta",
+    "title": "Asistent Medical Urgenta",
+    "company": "REGINA MARIA - BANCA CENTRALĂ DE CELULE STEM S.A.",
+    "location": [
+      "Timișoara",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T10:03:37Z",
+    "status": "tested",
+    "tags": [
+      "prevenire infecție",
+      "criză sanitară"
+    ],
+    "matchPercentage": 85,
+    "reason": "Asistent medical urgență cu recoltare de probe, primul ajutor și sterilizare, competențe directe de urgență sanitară și prevenire a infecțiilor."
+  },
+  {
+    "url": "https://www.valrom.ro/joburi/operator-statie-amestecare-materii-prime/",
+    "title": "Operator Statie Amestecare Materii Prime",
+    "company": "VALROM INDUSTRIE SRL",
+    "location": [
+      "București",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-25T16:59:18.610Z",
+    "status": "scraped",
+    "tags": [
+      "Manipulare substanțe",
+      "Operare echipamente"
     ],
     "matchPercentage": 82,
-    "reason": "Asistent medical generalist în spital, nivel postliceal cu sub 3 ani experiență, folosește direct proceduri de prevenire a infecției și echipamente medicale."
+    "reason": "Operator stație amestecare materii prime în producție industrială, cu potrivire bună prin manipularea materiilor prime și operarea echipamentelor."
   },
   {
-    "url": "https://www.teamland.ro/apply.php?id=965",
-    "title": "Laborant determinari fizico-mecanice",
-    "company": "TEAMLAND SRL",
+    "url": "https://www.antibiotice.ro/joburi/operator-productie/",
+    "title": "Operator Productie",
+    "company": "ANTIBIOTICE SA",
     "location": [
-      "Ploiesti",
+      "Iași",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-17T11:34:09Z",
-    "status": "tested",
+    "date": "2026-11-27T16:23:05.955Z",
+    "status": "scraped",
     "tags": [
-      "Echipamente laborator",
-      "Securitate muncă"
+      "echipamente tehnologice",
+      "parametri proces"
     ],
-    "matchPercentage": 76,
-    "reason": "Determinările fizico-mecanice în schimburi implică echipamente de laborator, respectarea normelor de securitate și controlul calității în producție."
+    "matchPercentage": 80,
+    "reason": "Operatorul de producție la Antibiotice lucrează într-o fabrică farmaceutică, unde operarea echipamentelor tehnologice și monitorizarea parametrilor de proces sunt sarcini centrale, la nivel entry-level."
   },
   {
-    "url": "https://www.teamland.ro/apply.php?id=1246",
-    "title": "Laborant determinari fizico-mecanice",
-    "company": "TEAMLAND SRL",
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/272923/Electromontaj/Inspector-SSM",
+    "title": "Inspector SSM",
+    "company": "GREEN ELECTROMONTAJ SRL",
     "location": [
-      "Ploiesti",
+      "Bucuresti",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-17T10:28:12Z",
+    "date": "2026-11-17T13:25:56Z",
     "status": "tested",
     "tags": [
-      "Echipamente laborator",
-      "Securitate muncă"
+      "securitate muncă",
+      "prevenire riscuri"
     ],
-    "matchPercentage": 74,
-    "reason": "Determinările fizico-mecanice în schimburi implică echipamente de laborator, respectarea normelor de securitate și controlul calității în producție."
+    "matchPercentage": 80,
+    "reason": "Poziție de inspector SSM în mediul industrial/energetic, nivel entry și domeniu direct relevant."
   },
   {
-    "url": "https://www.jobradar24.ro/anunt/laborant-ctc-rr0kxq",
-    "title": "Laborant CTC",
-    "company": "ELIS PAVAJE SRL",
+    "url": "https://multijobs.ro/job/specialist-ssm/5437",
+    "title": "Specialist SSM",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
     "location": [
-      "Aricestii Rahtivani",
+      "Bucuresti",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-17T09:38:21Z",
+    "date": "2026-11-17T11:44:16Z",
     "status": "tested",
     "tags": [
-      "Control calitate",
-      "Echipamente laborator"
+      "securitate muncă",
+      "norme muncă"
+    ],
+    "matchPercentage": 78,
+    "reason": "Specialist SSM, domeniu direct relevant și nivel fără indicații de senioritate sau experiență îndelungată."
+  },
+  {
+    "url": "https://oferimdemunca.ro/job/operator-statie-materii-prime-sector-6/",
+    "title": "Operator statie materii prime - Sector 6",
+    "company": "SMART OUTSOURCING SERVICES S.R.L.",
+    "location": [
+      "București",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T07:39:11Z",
+    "status": "tested",
+    "tags": [
+      "Manipulare substanțe",
+      "Operare echipamente"
+    ],
+    "matchPercentage": 75,
+    "reason": "Operator stație materii prime în mediu industrial, relevant prin operarea echipamentelor și gestionarea materiilor prime în producție."
+  },
+  {
+    "url": "https://oferimdemunca.ro/job/inginer-industria-alimentara/",
+    "title": "Inginer industria alimentara",
+    "company": "FOR ELDA SRL",
+    "location": [
+      "Drobeta-Turnu Severin",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T14:34:21Z",
+    "status": "tested",
+    "tags": [
+      "control calitate",
+      "parametri proces"
     ],
     "matchPercentage": 70,
-    "reason": "Laborantul CTC din producția de pavaje se suprapune direct pe competențele de control al calității și de utilizare a echipamentelor de laborator."
+    "reason": "Inginerul din industria alimentară desfășoară producție, control al calității și optimizare de procese, competențe din lista mea aplicate într-un domeniu înrudit, la nivel entry-level."
   },
   {
     "url": "https://www.adecco.com/ro-ro/job-search/asistent-manager-cluj-napoca-cluj/JN-062026-1106949",
@@ -190,46 +244,118 @@
     "date": "2026-11-17T15:20:14Z",
     "status": "tested",
     "tags": [
-      "Operare echipamente",
-      "Control calitate"
+      "Control calitate",
+      "Operare echipamente"
     ],
-    "matchPercentage": 65,
-    "reason": "Operator în producție industrială cu operare de echipamente, controlul calității, monitorizarea liniei și norme de siguranță, la nivel entry-level."
+    "matchPercentage": 70,
+    "reason": "Anunț pentru mai multe roluri în producție auto, inclusiv control calitate și operare utilaje, parțial relevante pentru competențele tehnice."
   },
   {
-    "url": "https://www.ejobs.ro/user/locuri-de-munca/programator-fabricatie-pp-c/99254808",
-    "title": "Programator fabricatie - PP și C",
-    "company": "A-E ELECTRONICS SA",
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3293823",
+    "title": "ASISTENT MEDICAL GENERALIST",
+    "company": "MEDICOVER HOSPITALS SRL",
     "location": [
-      "Bacau",
+      "BUCURESTI SECTORUL 1",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-17T10:25:19Z",
+    "date": "2026-11-16T13:11:14Z",
     "status": "tested",
     "tags": [
-      "Gestionarea stocurilor",
-      "Evidența"
+      "prevenire infecție",
+      "depistare precoce"
     ],
-    "matchPercentage": 60,
-    "reason": "Planificarea producției de electronici e domeniu industrial la nivel entry, cu monitorizarea materialelor și evidența activității."
+    "matchPercentage": 70,
+    "reason": "Asistent medical generalist la spital, nivel entry-level, cu aplicare directă a prevenirii infecțiilor și depistării precoce."
   },
   {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3438240",
-    "title": "PROGRAMATOR FABRICATIE/LANSATOR FABRICATIE",
-    "company": "A-E ELECTRONICS SA",
+    "url": "https://www.valrom.ro/joburi/operator-productie-fabrica-pantelimon/",
+    "title": "Operator Productie Fabrica Pantelimon",
+    "company": "VALROM INDUSTRIE SRL",
     "location": [
-      "BACAU",
+      "București",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-16T12:59:33Z",
+    "date": "2026-11-25T16:59:18.610Z",
+    "status": "scraped",
+    "tags": [
+      "Operare echipamente",
+      "Securitate muncă"
+    ],
+    "matchPercentage": 68,
+    "reason": "Post de operator producție în industria materialelor plastice, relevant parțial prin operarea echipamentelor tehnologice și respectarea normelor de securitate."
+  },
+  {
+    "url": "https://multijobs.ro/job/inginer-in-industria-alimentara/5813",
+    "title": "INGINER ÎN INDUSTRIA ALIMENTARA",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "location": [
+      "Cluj-Napoca",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T12:54:14Z",
+    "status": "tested",
+    "tags": [
+      "control calitate",
+      "igienizare"
+    ],
+    "matchPercentage": 65,
+    "reason": "Titlul de inginer în industria alimentară indică un rol în producție industrială și controlul calității, domenii permise, deși descrierea nu detaliază nivelul."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3416759",
+    "title": "INFIRMIER/INFIRMIERA",
+    "company": "ELYSIUM CARE RESIDENCES",
+    "location": [
+      "Rusi-ciutea",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-16T13:56:47Z",
     "status": "verified",
     "tags": [
-      "Gestionarea stocurilor",
-      "Evidența"
+      "prevenire infecție",
+      "protecție medicală"
     ],
-    "matchPercentage": 60,
-    "reason": "Planificarea producției cu sub 3 ani experiență folosește monitorizarea materialelor și evidența activității într-un domeniu industrial."
+    "matchPercentage": 65,
+    "reason": "Rol de infirmier în centru de îngrijire, fără experiență, care folosește direct prevenirea infecțiilor și echipamentele de protecție medicală, deși nu este specialitatea exactă."
+  },
+  {
+    "url": "https://www.publi24.ro/anunturi/locuri-de-munca/soferi-transporturi/curierat-livrari/anunt/operator-fabrica-industria-alimentara-ghitta/6h88id08e581791de2hi49f8iiih5fhg.html",
+    "title": "Operator fabrica industria alimentara GHITTA",
+    "company": "PUBLI24 DIGITAL S.R.L.",
+    "location": [
+      "Baia Mare",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T12:35:20Z",
+    "status": "tested",
+    "tags": [
+      "echipamente tehnologice",
+      "igienizare"
+    ],
+    "matchPercentage": 62,
+    "reason": "Operatorul de fabrică din industria alimentară folosește echipamente tehnologice și reguli de igienizare într-un proces industrial, la nivel entry-level, deși domeniul e doar înrudit cu cel chimic."
+  },
+  {
+    "url": "https://oferimdemunca.ro/job/operator-productie-fabrica-sector-6/",
+    "title": "Operator productie - fabrica Sector 6",
+    "company": "SMART OUTSOURCING SERVICES S.R.L.",
+    "location": [
+      "București",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T15:20:45Z",
+    "status": "tested",
+    "tags": [
+      "Operare echipamente",
+      "Securitate muncă"
+    ],
+    "matchPercentage": 62,
+    "reason": "Operator producție într-o fabrică de mase plastice, cu potrivire parțială prin operarea utilajelor în mediu industrial."
   }
 ]
